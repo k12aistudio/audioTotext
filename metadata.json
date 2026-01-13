@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Audio Transcriber Pro",
+  "description": "A professional-grade audio transcription tool that leverages Gemini 3 to convert multiple audio files and microphone recordings into high-quality text transcripts simultaneously.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
